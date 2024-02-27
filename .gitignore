@@ -1,0 +1,7 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/x64
+/.vs/minimal_path_finder_xw
+/minimal_path_finder_xw/x64
