@@ -4,9 +4,9 @@
 Minimal Path Finder is a C++ program that reads a matrix from a text file, calculates its minimal paths, visualizes it, and exports the result to a separate file. It allows arbitrary editing of the loaded data before starting generation. For testing the correctness of the algorithm, the ability to load a random matrix with user-specified parameters has also been implemented.
 
 ## Technologies
-Programming Language: C++
-GUI: wxWidgets 3.2.4
-IDE: Microsoft Visual Studio 2022 Community Edition
+Programming Language: C++<br>
+GUI: wxWidgets 3.2.4<br>
+IDE: Microsoft Visual Studio 2022 Community Edition<br>
 
 ## Usage
 1. Load a matrix from a text file.
